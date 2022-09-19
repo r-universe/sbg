@@ -6,5 +6,8 @@
   {
     "package": "tidycwl",
     "oncran": true
+  },
+  {
+    "package": "sevenbridges"
   }
 ]
