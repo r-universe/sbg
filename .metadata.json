@@ -4,10 +4,10 @@
     "oncran": true
   },
   {
-    "package": "tidycwl",
-    "oncran": true
+    "package": "sevenbridges"
   },
   {
-    "package": "sevenbridges"
+    "package": "tidycwl",
+    "oncran": true
   }
 ]

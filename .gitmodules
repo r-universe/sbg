@@ -8,13 +8,13 @@
 	url = https://github.com/sbg/biocompute
 	shallow = true
 	registered = true
-[submodule "tidycwl"]
-	path = tidycwl
-	url = https://github.com/sbg/tidycwl
-	shallow = true
-	registered = true
 [submodule "sevenbridges"]
 	path = sevenbridges
 	url = https://github.com/sbg/sevenbridges-r
+	shallow = true
+	registered = true
+[submodule "tidycwl"]
+	path = tidycwl
+	url = https://github.com/sbg/tidycwl
 	shallow = true
 	registered = true
