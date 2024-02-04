@@ -8,6 +8,9 @@
 [submodule "sevenbridges"]
 	path = sevenbridges
 	url = https://github.com/sbg/sevenbridges-r
+[submodule "sevenbridges2"]
+	path = sevenbridges2
+	url = https://github.com/sbg/sevenbridges2
 [submodule "tidycwl"]
 	path = tidycwl
 	url = https://github.com/sbg/tidycwl
