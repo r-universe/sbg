@@ -5,9 +5,6 @@
 [submodule "biocompute"]
 	path = biocompute
 	url = https://github.com/sbg/biocompute
-[submodule "sevenbridges"]
-	path = sevenbridges
-	url = https://github.com/sbg/sevenbridges-r
 [submodule "sevenbridges2"]
 	path = sevenbridges2
 	url = https://github.com/sbg/sevenbridges2
